@@ -17,7 +17,9 @@ Alors pour allumer son ordinateur :
 2. Puis on appuie sur le bouton de démarrage 
 
 **C'est simple**
+
 _A plus pour de nouvelle aventure_
+
 _Ton amigo_
 
 Source : [Bible informatique](https://lisaxwest.github.io/projet-a.o.r.i./)
