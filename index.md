@@ -3,6 +3,23 @@
 Tu veux comprendre une nouvelle technologie? 
 Viens je t'explique tout mon ami 
 
+# Explications
+
+Alors pour allumer son ordinateur : 
+- Tu le branche sur une prise de courant, oui oui
+- Puis tu appuies sur le boutton de démarrage 
+
+**Attention c'est important de ne pas prendre cette étape à la _légère_**
+
+##Je répète donc 
+
+1. Tu le branches sur une prise de courant (fonctionel si possible)
+2. Puis on appuie sur le bouton de démarrage 
+
+**C'est simple**
+## A plus pour de nouvelle aventure
+_Ton amigo_
+
 You can use the [editor on GitHub](https://github.com/Lisaxwest/projet-a.o.r.i./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
