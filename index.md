@@ -11,7 +11,7 @@ Alors pour allumer son ordinateur :
 
 **Attention c'est important de ne pas prendre cette étape à la _légère_**
 
-##Je répète donc 
+## Je répète donc 
 
 1. Tu le branches sur une prise de courant (fonctionel si possible)
 2. Puis on appuie sur le bouton de démarrage 
