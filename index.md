@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue amigo
 
 You can use the [editor on GitHub](https://github.com/Lisaxwest/projet-a.o.r.i./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
