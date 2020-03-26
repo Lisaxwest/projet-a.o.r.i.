@@ -24,7 +24,7 @@ _Ton amigo_
 
 Source : [Bible informatique](https://lisaxwest.github.io/projet-a.o.r.i./)
 
-![logodusite](30857364358_48fcf1c878_o.jpg)
+![logodusite](image/30857364358_48fcf1c878_o.jpg)
 
 You can use the [editor on GitHub](https://github.com/Lisaxwest/projet-a.o.r.i./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
