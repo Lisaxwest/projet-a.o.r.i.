@@ -6,7 +6,7 @@ Voici, les sujets que j’aimerais traiter dans le cadre du travail.
 
 Une technologie qu'on a dans les téléphones mais aussi en chine dans une version plus extrême. De nouvelles technologies qui peuvent contribuer à renforcer notre sécurité, mais à quel prix? Certains défendent les droits à la vie privé et certains à la liberté publique. Prendre ce sujet reviendrait à comprendre cette technologie qui fera indéniablement parti de notre futur. 
 
-![reconnaissancefaciale](images/reconnaissancefaciale.jpg)
+![reconnaissancefaciale](images/Reconnaissancefaciale.jpg)
 
 *Quelques ressources supplémentaires*
 
@@ -19,7 +19,7 @@ Une technologie qu'on a dans les téléphones mais aussi en chine dans une versi
 Par curiosité voyant la grosse polémique qu'a sucité la prochaine sorti de la 5G.
 Ne sachant pas réellement ce que c'est, d'un point de vue technique, je me suis dis que c'était l'occasion de s'y intéresser de plus près et de comprendre cette technologie.
 
-![5G](images/5G.jpg)
+![5G](images/5g.jpg)
 
 *Quelques ressources supplémentaires*
 
