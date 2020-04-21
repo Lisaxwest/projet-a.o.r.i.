@@ -4,7 +4,7 @@ Voici, les sujets que j’aimerais traiter dans le cadre du travail.
 
 ## Le système de reconnaissance faciale 
 
-Une technologie qu'on a dans les téléphones mais aussi en chine dans une version plus extrême. De nouvelles technologies qui peuvent contribuer à renforcer notre sécurité, mais à quel prix? Certains défendent les droits à la vie privé et certains à la liberté publique. Prendre ce sujet reviendrait à comprendre cette technologie qui fera indéniablement parti de notre futur. 
+Une technologie qu'on a dans les téléphones mais aussi en Chine dans une version plus extrême. De nouvelles technologies qui peuvent contribuer à renforcer notre sécurité, mais à quel prix? Certains défendent les droits à la vie privé et certains à la liberté publique. Prendre ce sujet reviendrait à comprendre cette technologie qui fera indéniablement parti de notre futur. 
 
 ![reconnaissancefaciale](images/Reconnaissancefaciale.jpg)
 
