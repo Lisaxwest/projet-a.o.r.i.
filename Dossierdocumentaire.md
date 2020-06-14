@@ -4,14 +4,14 @@ Bonjour et bienvenue sur ce site!
 
 Ce site mets à disposition des documents pour vous offrir des informations diverses et fiables sur cette nouvelle technologie qu'est "La reconnaissance faciale". 
 
-## [1. Définition](https://lisaxwest.github.io/projet-a.o.r.i./definition) 
+## 1. [Définition](definition.md) 
 
-## [2. Historique](https://lisaxwest.github.io/projet-a.o.r.i./Historique)
+## 2. [Historique](Historique.md)
 
-## [3. Fonctionnement](https://lisaxwest.github.io/projet-a.o.r.i./Fonctionnement)
+## 3. [Fonctionnement](Fonctionnement.md)
 
-## [4. Avantages](https://lisaxwest.github.io/projet-a.o.r.i./Avantages)
+## 4. [Avantages](Avantages.md)
 
-## [5. Risques](https://lisaxwest.github.io/projet-a.o.r.i./Risques)
+## 5. [Risques](Risques.md)
 
-## [6. Législation](https://lisaxwest.github.io/projet-a.o.r.i./Législation)
+## 6. [Législation](Législation.md)
