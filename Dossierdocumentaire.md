@@ -1,18 +1,17 @@
 # La reconnaissance faciale
 
-Bonjour et bienvenue! 
-Je vous présente aujourd'hui une technologie dont vous avez surement entendu parler! 
-**Le reconnaissance faciale**
+Bonjour et bienvenue sur mon site! 
 
-## 1. [Définition](Définition) 
+Ce site mets à disposition des recherches que j'ai pu effectué, pour vous offrir des informations diverses et fiable sur cette nouvelle technologie qu'est "La reconnaissance faciale". 
 
-Qu'est ce que la reconnaissance faciale ? 
-[k]
+## 1. [Définition](https://lisaxwest.github.io/projet-a.o.r.i./definition) 
 
-## 2. Fonctionnement
+## 2. [Historique](
 
-## 3. Avantages 
+## 3. [Fonctionnement](
 
-## 4. Risques  
+## 4. [Avantages](
 
-## 5. Législation 
+## 5. [Risques](
+
+## 6. [Législation](
