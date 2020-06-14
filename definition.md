@@ -1,4 +1,4 @@
 ## Définitions
 
 
-[Définition de la reconnaissance faciale](RECOFACIALEDEF.png)
+![Définition de la reconnaissance faciale](images/DEFRF.png)
